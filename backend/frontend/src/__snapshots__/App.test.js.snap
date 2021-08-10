@@ -1,0 +1,153 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<header
+  className="App-header"
+>
+  <div
+    className="App"
+  >
+    <h2>
+      <b>
+        Third party api user details:
+      </b>
+    </h2>
+    <form>
+      <label>
+        <input
+          onChange={[Function]}
+          placeholder="Enter username here.."
+          type="text"
+          value=""
+        />
+      </label>
+    </form>
+    <hr
+      style={
+        Object {
+          "height": 0.5,
+          "opacity": 0.5,
+        }
+      }
+    />
+    <img
+      alt="gitHub logo"
+      src="/gitHub.gif"
+    />
+    <p>
+      
+    </p>
+    <hr
+      style={
+        Object {
+          "height": 0.5,
+          "opacity": 0.5,
+        }
+      }
+    />
+    <img
+      alt="gitLab logo"
+      src="/gitLab.gif"
+    />
+    <p>
+      
+    </p>
+    <hr
+      style={
+        Object {
+          "height": 0.5,
+          "opacity": 0.5,
+        }
+      }
+    />
+    <img
+      alt="Bitbucket logo"
+      src="/bitbucket.gif"
+    />
+    <p>
+      <b>
+        (Note: Have to enter valid user id for Bitbucket results)
+      </b>
+    </p>
+    <p>
+      
+    </p>
+  </div>
+</header>
+`;
+
+exports[`renders correctly 2`] = `
+<header
+  className="App-header"
+>
+  <div
+    className="App"
+  >
+    <h2>
+      <b>
+        Third party api user details:
+      </b>
+    </h2>
+    <form>
+      <label>
+        <input
+          onChange={[Function]}
+          placeholder="Enter username here.."
+          type="text"
+          value=""
+        />
+      </label>
+    </form>
+    <hr
+      style={
+        Object {
+          "height": 0.5,
+          "opacity": 0.5,
+        }
+      }
+    />
+    <img
+      alt="gitHub logo"
+      src="/gitHub.gif"
+    />
+    <p>
+      
+    </p>
+    <hr
+      style={
+        Object {
+          "height": 0.5,
+          "opacity": 0.5,
+        }
+      }
+    />
+    <img
+      alt="gitLab logo"
+      src="/gitLab.gif"
+    />
+    <p>
+      
+    </p>
+    <hr
+      style={
+        Object {
+          "height": 0.5,
+          "opacity": 0.5,
+        }
+      }
+    />
+    <img
+      alt="Bitbucket logo"
+      src="/bitbucket.gif"
+    />
+    <p>
+      <b>
+        (Note: Have to enter valid user id for Bitbucket results)
+      </b>
+    </p>
+    <p>
+      
+    </p>
+  </div>
+</header>
+`;
